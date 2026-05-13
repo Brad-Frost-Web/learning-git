@@ -120,16 +120,6 @@ code {
   padding-bottom: clamp(28px, 4vw, 56px);
 }
 
-.hero__eyebrow {
-  font-family: var(--font-display);
-  font-variation-settings: "wght" 600, "MONO" 1;
-  font-size: 13px;
-  letter-spacing: 0.12em;
-  text-transform: uppercase;
-  color: var(--rust);
-  margin: 0 0 18px;
-}
-
 .hero__title {
   font-family: var(--font-display);
   font-variation-settings: "wght" 900, "CASL" 0;
